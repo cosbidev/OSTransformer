@@ -111,13 +111,17 @@ For any questions, please contact [camillomaria.caruso@unicampus.it](mailto:cami
 # Citation
 
 ```bibtex
-@misc{caruso2023deep,
-      title={A Deep Learning Approach for Overall Survival Prediction in Lung Cancer with Missing Values}, 
-      author={Camillo Maria Caruso and Valerio Guarrasi and Sara Ramella and Paolo Soda},
-      year={2023},
-      eprint={2307.11465},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{CARUSO2024108308,
+    title = {A Deep Learning Approach for Overall Survival Prediction in Lung Cancer with Missing Values},
+    journal = {Computer Methods and Programs in Biomedicine},
+    volume = {254},
+    pages = {108308},
+    year = {2024},
+    issn = {0169-2607},
+    doi = {https://doi.org/10.1016/j.cmpb.2024.108308},
+    url = {https://www.sciencedirect.com/science/article/pii/S016926072400302X},
+    author = {Camillo Maria Caruso and Valerio Guarrasi and Sara Ramella and Paolo Soda},
+    keywords = {Survival analysis, Missing data, Precision medicine, Oncology},
 }
 ```
 
