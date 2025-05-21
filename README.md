@@ -1,5 +1,7 @@
 # A Deep Learning Approach for Overall Survival Prediction in Lung Cancer with Missing Values 
 
+[![arXiv](https://img.shields.io/badge/arXiv-2307.11465-b31b1b.svg)](https://arxiv.org/abs/2307.11465)
+
 <p align="center" width="100%">
 <img src="./img/model.svg" width="400" style="display: block; margin: 0 auto">
 </p>
